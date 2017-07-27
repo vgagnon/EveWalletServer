@@ -1,0 +1,22 @@
+{
+  "name": "evewalletsserver",
+  "version": "0.0.0",
+  "description": "REST Api for eve wallets",
+  "main": "dist/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vgagnon/EveWalletsServer.git"
+  },
+  "author": "Vincent Gagnon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vgagnon/EveWalletsServer/issues"
+  },
+  "homepage": "https://github.com/vgagnon/EveWalletsServer#readme",
+  "dependencies": {
+    "typescript": "^2.4.2"
+  }
+}
