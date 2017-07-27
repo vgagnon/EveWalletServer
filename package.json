@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/vgagnon/EveWalletsServer#readme",
   "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-npm-command": "^0.1.2",
+    "grunt-shell": "^2.1.0",
+    "grunt-update-submodules": "^0.4.1",
     "typescript": "^2.4.2"
   }
 }
