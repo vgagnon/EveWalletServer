@@ -1,0 +1,3 @@
+[submodule "src_client"]
+	path = src_client
+	url = git@github.com:vgagnon/EveWalletsClient.git
